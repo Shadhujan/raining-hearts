@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.20
+Name: Janudi_app
+Formal-Name: My love
+App-ID: com.janudi.janudiapp.Janudi-app
+Version: 0.0.1
+Home-page: https://janudiapp.janudi.com/Janudi_app
+Download-URL: https://janudiapp.janudi.com/Janudi_app
+Author: Shadhujan J a.k.a Rataash
+Author-email: jeyashadhujan@gmail.com
+Summary: myfirst python android application
